@@ -31,6 +31,17 @@ Specially, I consider the Hotelling T2 test and the Nearest neighbor test.
 > [R script](https://github.com/AndrMenezes/sts2017/blob/master/works3/permutation-analise.R)
 ***
 
+## Bayesian Inference for the parameters of Marshall-Olkin extended Weibull distribution
+In this work the issue of estimation the parameters of Marshall-Olkin extended Weibull distribution is studied under the Bayesian paradigmh. An real application considering Type I censoring is presented.
+
+***
+> [Report](https://github.com/AndrMenezes/sts2017/raw/master/works4/draft-4.pdf)
+
+> [Presentation](https://github.com/AndrMenezes/sts2017/raw/master/work4/presentation-4.pdf)
+
+> [R and SAS scripts](https://github.com/AndrMenezes/sts2017/tree/master/work4/scripts)
+***
+
 
 
 
