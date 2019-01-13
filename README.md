@@ -24,18 +24,18 @@ This work present a theoretical overview of permutation tests with focus on comp
 Specially, I consider the Hotelling T2 test and the Nearest neighbor test.
 
 ***
-> [Report](https://github.com/AndrMenezes/sts2017/raw/master/works3/draft-3.pdf)
+> [Report](https://github.com/AndrMenezes/sts2017/raw/master/work3/draft-3.pdf)
 
 > [Presentation](https://github.com/AndrMenezes/sts2017/raw/master/work3/presentation-3.pdf)
 
-> [R script](https://github.com/AndrMenezes/sts2017/blob/master/works3/permutation-analise.R)
+> [R script](https://github.com/AndrMenezes/sts2017/blob/master/work3/permutation-analise.R)
 ***
 
 ## Bayesian Inference for the parameters of Marshall-Olkin extended Weibull distribution
 In this work the issue of estimation the parameters of Marshall-Olkin extended Weibull distribution is studied under the Bayesian paradigmh. An real application considering interval censoring is presented.
 
 ***
-> [Report](https://github.com/AndrMenezes/sts2017/raw/master/works4/draft-4.pdf)
+> [Report](https://github.com/AndrMenezes/sts2017/raw/master/work4/draft-4.pdf)
 
 > [Presentation](https://github.com/AndrMenezes/sts2017/raw/master/work4/presentation-4.pdf)
 
@@ -47,7 +47,7 @@ In this work the issue of estimation the parameters of Marshall-Olkin extended W
 This work discussed the Bootstrap methods under the theoretical framework to estimation the parameters and functions of the parameters of the Gumbel Bivariate Exponential (GBE) and Hougaard Bivariate Exponential (HBE) distribuitions. Simulation examples are presented using R and SAS software.
 
 ***
-> [Report](https://github.com/AndrMenezes/sts2017/raw/master/works5/draft-5.pdf)
+> [Report](https://github.com/AndrMenezes/sts2017/raw/master/work5/draft-5.pdf)
 
 > R scripts:
   - [GBE](https://github.com/AndrMenezes/sts2017/blob/master/work5/GBE.R)
