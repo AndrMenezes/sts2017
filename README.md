@@ -32,7 +32,7 @@ Specially, I consider the Hotelling T2 test and the Nearest neighbor test.
 ***
 
 ## Bayesian Inference for the parameters of Marshall-Olkin extended Weibull distribution
-In this work the issue of estimation the parameters of Marshall-Olkin extended Weibull distribution is studied under the Bayesian paradigmh. An real application considering Type I censoring is presented.
+In this work the issue of estimation the parameters of Marshall-Olkin extended Weibull distribution is studied under the Bayesian paradigmh. An real application considering interval censoring is presented.
 
 ***
 > [Report](https://github.com/AndrMenezes/sts2017/raw/master/works4/draft-4.pdf)
