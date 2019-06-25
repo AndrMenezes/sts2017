@@ -6,7 +6,7 @@
 ## Application of Association Rules and Classification Methods
 In this work the techniques of association rules and classification methods were applied in two real problems.
 
-1. Determine relationships between climatological variables and rainfall using data from climatological station at Maringá. The source of the data is Instituo Nacional de Meteorologia [(INMET)](http://www.inmet.gov.br/).
+1. Determine the relationship between climatological variables and rainfall using data from climatological station at Maringá. The source of the data is Instituo Nacional de Meteorologia [(INMET)](http://www.inmet.gov.br/).
 
 2. Prediction of Tennis Matches from the data available by [Francesco](https://github.com/okh1/tennis-prediction). The following classification methods were used: Classification Based on Associations, k-Nearest Neighbour (KNN), Linear Discriminant Analysis (LDA) and Naye Bayes.
 
@@ -20,7 +20,7 @@ In this work the techniques of association rules and classification methods were
 
 ## Permutation Test for Comparison of Multivarite Distributions
 
-This work present a theoretical overview of permutation tests with focus on comparison of multivariate distributions.
+This work presents a theoretical overview of permutation tests with focus on comparison of multivariate distributions.
 Specially, I consider the Hotelling T2 test and the Nearest neighbor test.
 
 ***
